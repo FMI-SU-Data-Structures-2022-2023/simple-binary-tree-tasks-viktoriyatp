@@ -1,4 +1,6 @@
+#include <iostream>
 #include "solution.h"
+#include <vector>
 
 int countElements(Node* tree) {
     if (!tree)
